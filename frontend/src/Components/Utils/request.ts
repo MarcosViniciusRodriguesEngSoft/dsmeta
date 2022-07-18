@@ -1,1 +1,1 @@
-export const BASE_URL = import.meta.env.REACT_APP_BACKEND_URLVITE_BACKEND_URL ?? "http://localhost:8080";
+export const BASE_URL = import.meta.env.REACT_APP_BACKEND_URLVITE_BACKEND_URL ?? "https://marcos-vinicius-dsmeta.herokuapp.com";
